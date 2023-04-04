@@ -18,7 +18,7 @@
   .marketing,
   .consulting {
     display: flex;
-    height: 100vh;
+    height: 105vh;
     align-items: center;
     justify-content: center;
     font-size: 3rem;
@@ -87,4 +87,3 @@
     color: #fff;
     font-size: 70px;
   }
-  
